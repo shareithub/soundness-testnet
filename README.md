@@ -23,6 +23,9 @@ wget -qO- https://raw.githubusercontent.com/shareithub/soundless-testnet/refs/he
 
 ## Next, keep monitoring your terminal, and later at the end you will have to enter your password. and until the public key appears. Once that's done, you can watch the full video below :
 
+https://youtu.be/7qgN2StwAVU
+
+
 # CHECK YOUR PHARSE U CAN COPY AND PASTE THIS IN TERMINAL :
 ```
 soundness-cli export-key --name my-key
