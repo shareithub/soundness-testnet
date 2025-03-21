@@ -5,6 +5,15 @@
 # YOUTUBE : [SHARE IT HUB](www.youtube.com/@SHAREITHUB_COM)
 # TELEGRAM : [SHARE IT HUB](t.me/SHAREITHUB_COM)
 
+# JOIN WAITLIST SOUNDNESS :
+
+[https://soundness.xyz/](https://getwaitlist.com/waitlist/25132?ref_id=1OWIKDB9V)
+
+# DISCORD SERVER :
+
+https://discord.com/invite/ErH3aBHn
+
+
 ## TUTORIAL :
 
 Copy & Paste in  your VPS or u  can use UBUNTU :
